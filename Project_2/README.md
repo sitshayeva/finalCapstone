@@ -4,7 +4,7 @@ This repository provides information about Natural Language Processing (NLP) app
 
 ## Table of Contents
 - [Project Description](#project-description)
-- [Use-Case Categorization](#use-case-categorization)
+- [Use Case Categorization](#use-case-categorization)
 - [Innovative Technologies](#innovative-technologies)
 - [Export](#export)
 - [Usage](#usage)
