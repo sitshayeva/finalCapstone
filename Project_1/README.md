@@ -35,10 +35,10 @@ Once you have installed the project, you can use the `financial_calculators.py` 
 
 Below are some screenshots of the `financial_calculators.py` script in action:
 
-![Investment Calculation](Project_1/screenshots/investment.png)
+![Investment Calculation](/investment.png)
 *Screenshot of the script calculating investment interest.*
 
-![Bond Calculation](Project_1/screenshots/bond.png)
+![Bond Calculation](/bond.png)
 *Screenshot of the script calculating bond repayment amount.*
 
 ## Credits
