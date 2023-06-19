@@ -1,4 +1,4 @@
-## Project name: Financial Calculators
+## Project: Financial Calculators
 
 This project provides a script called `financial_calculators.py` that allows users to perform two types of financial calculations: investment and bond calculations. The script prompts the user to select the type of calculation and then performs the calculation based on the user's input.
 
